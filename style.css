@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    align-content: center;
+    justify-content: center;
+}
+
+svg path{
+    stroke: #eee;
+    stroke-width: .25;
+}
+svg path:hover{
+    fill: #006284;
+    transition: 0.6s;
+    cursor: pointer;
+}
